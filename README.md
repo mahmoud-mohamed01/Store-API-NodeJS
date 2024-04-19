@@ -5,11 +5,11 @@ and Autherization features.
 
 # Technologies used
 
--NodeJS /
--Express/
--JWT /
--MongoDB/
--Mongoose/
--Node-mailer/
--express-validator/
--multer/
+-NodeJS <br>
+-Express <br>
+-JWT <br>
+-MongoDB <br>
+-Mongoose <br>
+-Node-mailer <br>
+-express-validator <br>
+-multer <br>
